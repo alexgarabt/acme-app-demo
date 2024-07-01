@@ -1,0 +1,3 @@
+url = jdbc:derby://localhost:1527/acmeur
+user = admin_acmeur
+password = acmeur2024
