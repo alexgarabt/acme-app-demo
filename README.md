@@ -1,7 +1,5 @@
 # Design of Software
-Demo app simulating a fictician app for a private healthcare company, the app provides some use cases for the doctors, ambulance personal and call center attendance for people that is assurance.  
-
-The app is designed with the use of different **Arquitecture and design patterns**.  
+Demo app simulating a fictician app for a private healthcare company using architecture & design patterns, the app provides some use cases for the doctors, ambulance personal and call center attendance for people that is assurance.  
 
 ## 1. Structure of the app
 
