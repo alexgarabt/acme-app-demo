@@ -37,7 +37,7 @@ The app is divided into (interface) (buisness rules/ use cases) (persistence). i
     3- Persitence (persistencia/) has all the source code to interact with the database
         * **daos/** contains all the DAO object to access to the database to retrive or upload the info & objects in the database. Each DAO converts the DB data into JSON string type to send to the obj constructor to get the java obj
         * **DBAccess/** Singleton pattern to have only on point access to the DB
-
+And more patterns documented in the models/extra.asta schemas
 ## Run the app
     1- First set up the DB MySQL to the config in the `config.db` file
     2- Run the SQL script `scriptSQL.sql` to set up the schema and basic info in the DB
